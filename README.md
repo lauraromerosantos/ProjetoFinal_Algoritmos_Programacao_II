@@ -1,7 +1,7 @@
 # Projeto Final - Algoritmos e Programação II - 2020/2
 
 ## Requisito - Projeto Final
-O projeto terá um requisito obrigatório: Orientação a Objetos e conceitos que integram (classe, objeto, atributos, Herança, Polimorfismo, Encapsulamento).
+O projeto terá um requisito obrigatório: **Orientação a Objetos** e conceitos que a integram **(classe, objeto, atributos, Herança, Polimorfismo, Encapsulamento).**
 
 ## Proposta - Projeto Final
 A ideia deste projeto é criar uma aplicação que tenha um controle de playlist dos programa de TV (filmes, séries e documentários).
